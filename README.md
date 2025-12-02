@@ -1,1 +1,2 @@
-# deep-learning-lab2
+# Emre Küçük - 21091000163
+Done via Google Colab
